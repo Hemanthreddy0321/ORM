@@ -10,17 +10,16 @@ Include your ER diagram here
 
 ## ALGORITHM 
 
-### STEP 1:
-Clone the problem from GitHub
+1.Clone the problem from GitHub
 
-### STEP 2:
-Create a new app in Django project
 
-### STEP 3:
-Enter the code for admin.py and models.py
+2.Create a new app in Django project
 
-### STEP 4:
-Execute Django admin and create 10 Football players
+
+3.Enter the code for admin.py and models.py
+
+
+4.Execute Django admin and create 10 Football players
 
 ## PROGRAM
 ```
