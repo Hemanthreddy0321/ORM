@@ -8,7 +8,7 @@ To develop a Django application to store and retrieve data from a Football Playe
 
 Include your ER diagram here
 
-## DESIGN STEPS
+## ALGORITHM 
 
 ### STEP 1:
 Clone the problem from GitHub
